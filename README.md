@@ -64,7 +64,8 @@ When I choose to update an employee role, then I am prompted to select an employ
 
 
 ## Link to walkthrough video:
-
+https://github.com/rawc72/Challenge_No_12/issues/1#issuecomment-991935402
 
 ## Link to URL repository:
+https://github.com/rawc72/Challenge_No_12.git
 
